@@ -7,3 +7,4 @@ from pydantic import BaseModel
 
 class Model(BaseModel):
     source_path: Path
+    target_path: Path
