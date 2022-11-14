@@ -1,0 +1,4 @@
+{
+    "source_folder_path": "tests_data/input",
+    "target_file_path": "tests_data/output/result.txt"
+}
