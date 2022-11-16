@@ -16,7 +16,7 @@ def prepare_label_studio_txt_report(config: Model) -> List[str]:
     # result_list = []
     # for path in path_list:
     #     #TO Do rename
-    #     path_number = path.stem.split('_')[0]
+    #     case_id = path.stem.split('_')[0]
     #     result_list.append(f'frames_{path_number}')
     #     for frame in path.read_text().split('\n'):
     #         result_list.append(Path(frame).stem)
