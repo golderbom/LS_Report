@@ -37,9 +37,6 @@ if __name__ == '__main__':
     print(filenames)
 
 
-if __name__ == '__main__':
-    config_work = Model.parse_file("config_ls_txt.json")
-    filenames = prepare_label_studio_txt_report(config_work)
-    print(filenames)
+
 
 
